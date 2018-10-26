@@ -1,6 +1,6 @@
 # codeload-hello-jupyter
 
-A simple introduction to Jupyter notebooks, mainly intended to demonstrate how cloning works.
+A simple introduction to Jupyter notebooks, to demonstrate how cloning works.
 
 ## Clone in QuantRocket
 
