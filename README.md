@@ -1,4 +1,4 @@
-# codeload-hello-jupyter
+# hello-jupyter
 
 A simple introduction to Jupyter notebooks, to demonstrate how cloning works.
 
