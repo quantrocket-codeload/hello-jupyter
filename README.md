@@ -17,4 +17,10 @@ from quantrocket.codeload import clone
 clone("hello-jupyter")
 ```
 
-## [Browse in GitHub](Hello-Jupyter.ipynb)
+## Browse in GitHub
+
+Start here: [Hello-Jupyter.ipynb](Hello-Jupyter.ipynb)
+
+***
+
+Find more code in QuantRocket's [Codeload Library](https://www.quantrocket.com/code/)
